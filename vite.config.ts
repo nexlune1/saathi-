@@ -5,6 +5,8 @@ import {defineConfig} from 'vite';
 
 export default defineConfig(() => {
   return {
+    // Required for GitHub Pages deployment (matches your repository name)
+    base: '/saathi-/',
     plugins: [react(), tailwindcss()],
     resolve: {
       alias: {
