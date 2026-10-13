@@ -1,0 +1,8 @@
+{
+  "name": "Remix Remix TravelMate – Your Smart Travelling Assistant",
+  "description": "Less Planning. More Exploring. A premium travel-tech web application featuring smart day-by-day itinerary planning, dynamic INR budget management, interactive destination discovery, packing checklists, and an AI travel assistant.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
